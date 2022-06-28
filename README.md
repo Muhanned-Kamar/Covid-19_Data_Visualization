@@ -2,7 +2,7 @@
 
 ## Introduction
 
-After exploring the data in the Covid-19 Data exploration project it is time to get some vizualizations of this data and try to show how each country is affected and how the world reacted to this virus.
+After exploring the data in the Covid-19 Data exploration project it is time to get some vizualizations of this data and try to show how each country is affected and how the world reacted to this virus. To view the dashboards click [Here](https://public.tableau.com/app/profile/muhanned1728)
 
 ### Vizualization Queries 
 
