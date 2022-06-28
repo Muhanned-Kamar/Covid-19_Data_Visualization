@@ -1,4 +1,4 @@
-# Covid-19_Data_Visualization
+# Covid-19_Data_Visualization_Project
 
 ## Introduction
 
